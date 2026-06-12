@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Screenshots
+screenshots/
+
+# Test Reports
+test-output/
+allure-results/
+allure-report/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
