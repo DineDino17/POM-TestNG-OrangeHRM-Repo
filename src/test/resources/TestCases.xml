@@ -3,7 +3,7 @@
 <suite name ="Orange HRM Login">
 	<test name = "Login using POM">
 		<classes>
-			<class name = "testCases.LoginPage"></class>
+			<class name = "testCases.LoginTest"></class>
 		</classes>
 	</test>
 </suite>
